@@ -6,7 +6,7 @@
 #include <sys/socket.h>
 #include <arpa/inet.h>
 
-#define IP "<server-IP>" // I forgot to change
+#define IP "<server-IP>" 
 #define PORT 8080
 #define MESSAGE_LEN 1024
 
