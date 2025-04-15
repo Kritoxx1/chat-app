@@ -11,8 +11,8 @@ This project is a work in progress, and I plan to improve it over time.
    ```
 2. Compile the server and client:
    ```sh
-   gcc server.c -o server -pthread
-   gcc client.c -o client -pthread
+   gcc SERVER/src/server.c -o server -pthread
+   gcc CLIENT/src/client.c -o client -pthread
    ```
 
 ## Usage
